@@ -11,7 +11,7 @@
 
     <mah:MetroWindow.Flyouts>
         <mah:FlyoutsControl>
-            <mah:Flyout Name="MyFlyout" IsPinned="True" Width="250" Position="Left">
+            <mah:Flyout Name="MyFlyout" IsPinned="True" Header="Flyout" Width="250" Position="Left" Margin="0,40,0,0">
                 <Grid Background="{DynamicResource MahApps.Brushes.Accent3}" >
                     <StackPanel Orientation="Vertical">
                         
